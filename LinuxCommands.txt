@@ -1,0 +1,62 @@
+Linux Commands
+---------------------------
+
+ls -l :
+      display a list of content of a directory.
+
+mkdir backup :
+      create a new directory named "backup".
+
+mkdir newDir :
+      create a new directory named "newDir".
+
+mv newDir backup
+      moving newDir to backup.
+
+touch backup/file1 
+      create a file inside backup folder.
+
+rm -ir backup
+      removes the entries for a specified file, group of files, or certain select files from a list within a directory [file1,newDir, backup].
+
+cat kinglear.txt
+      shows the content of the file kinglear.txt
+
+cat kinglear.txt > myNewfile.txt
+      redirects the content of kinglear.txt to myNewfile.txt
+
+more myNewfile.txt
+      use spacebar as scroll , Q ~ scroll to end
+
+less myNewfile.txt 
+      line by line scroll
+
+nano myNewfile.txt
+      edit the file 
+
+find / -name "backups" 2>/dev/null
+      all the standard errors are send to null and shows the folder "backup"
+
+find / -name "*backup*" 2>/dev/null
+      all the folders with name backup
+
+
+Steps to create a permanent Bash alias:
+---------------------------------------
+    (1) Edit the ~/.bash_aliases or ~/.bashrc file using a text editor:
+      nano .bash_aliases
+
+    (2) Append your bash alias, For example append:  
+        -> aliases fbackup='find ~ -name "backup*" 2>/dev/null'
+        -> aliases cdbackup='cd ~/newdir/backups/'
+
+    (3) Save and Close file
+
+    (4)Activate aliases
+      source .bash_aliases 
+
+    How to use/call aliases
+    --------------------------
+    Just type alias name eg:
+    . fbackup
+    . cdbackup
