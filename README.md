@@ -29,6 +29,14 @@ This portfolio serves as a window into my professional endeavors, highlighting k
    - Duration: Octber 2023
    - Description: Analyzed security alerts and respond to a ransomware attack using Python and stakeholder management skills
 
+## Projects
+
+1. **COVID 19 DATA EXPLORATION** - [GitHub Repo](https://github.com/AthiraBR/PortfolioProjects/tree/main/COVID-19)
+   - Description: In this project I have used SQL Server to explore global COVID 19 data.
+
+2. **Data Analysis on Bike Buyers Dataset** - [GitHub Repo](https://github.com/AthiraBR/PortfolioProjects/tree/main/Excel-WorkBook)
+   - Description: Created a dashboard with a meticulous blend of data cleaning, wrangling, and visualization techniques. I've transformed raw numbers into actionable insight that vividly illustrates the bike-buying scene.
+
 
 ## Challenges
 
