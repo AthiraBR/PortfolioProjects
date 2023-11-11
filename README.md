@@ -37,6 +37,8 @@ This portfolio serves as a window into my professional endeavors, highlighting k
 2. **Data Analysis on Bike Buyers Dataset** - [GitHub Repo](https://github.com/AthiraBR/PortfolioProjects/tree/main/Excel-WorkBook)
    - Description: Created a dashboard with a meticulous blend of data cleaning, wrangling, and visualization techniques. I've transformed raw numbers into actionable insight that vividly illustrates the bike-buying scene.
 
+3. **Spam Mail Prediction using ML** - [GitHub Repo](https://github.com/AthiraBR/PortfolioProjects/tree/main/Machine-Learning/Spam-mail-prediction)
+   - Description: Created a model using Logistic Regression to predict wheather a mail is spam or ham
 
 ## Challenges
 
