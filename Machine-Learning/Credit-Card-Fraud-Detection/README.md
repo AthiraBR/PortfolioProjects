@@ -4,6 +4,8 @@ This is a credit card fraud detection project using Python's machine learning li
 ## Dataset
 This project utilizes the creditcard.csv file as its dataset, comprising 284807 transactions with 31 columns. The Class column indicates whether the transaction is classified as legit or fraud.
 
+ Dataset Link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Dependencies
 Pandas
 Scikit-Learn
