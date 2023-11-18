@@ -40,6 +40,13 @@ This portfolio serves as a window into my professional endeavors, highlighting k
 3. **Spam Mail Prediction using ML** - [GitHub Repo](https://github.com/AthiraBR/PortfolioProjects/tree/main/Machine-Learning/Spam-mail-prediction)
    - Description: Created a model using Logistic Regression to predict wheather a mail is spam or ham
 
+4. **Credit Card Fraud Detection using ML** - [GitHub Repo](https://github.com/AthiraBR/PortfolioProjects/tree/main/Machine-Learning/Credit-Card-Fraud-Detection)
+   - Description: Created a model using Logistic Regression to predict wheather a transactions are legit or fraud
+
+5. **Fake News Prediction using ML** - [GitHub Repo](https://github.com/AthiraBR/PortfolioProjects/tree/main/Machine-Learning/Fake-News-Prediction)
+   - Description: Created a model using Logistic Regression to predict wheather a news are real or fake
+
+
 ## Challenges
 
 1. **Blue Team Labs** - [Security Blue Team Labs Online](https://blueteamlabs.online/?_gl=1*1ru5k0j*_ga*NTU4MDMyNTE4LjE2OTU1Mzg4MTM.*_ga_08W14X0YB4*MTY5ODQ4NTcwNS4zMC4xLjE2OTg0ODU3ODYuMC4wLjA.)
