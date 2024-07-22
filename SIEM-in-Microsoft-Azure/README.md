@@ -20,16 +20,16 @@ Azure Sentinel (SIEM) is set up and connected to a live virtual machine acting a
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>Attacks from South Korea coming in; Custom logs being output with geodata</h2>
+<h2>Attacks from Poland coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://github.com/user-attachments/assets/4dd329ed-ae0e-4d42-bedc-252d435ab3ca" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://github.com/user-attachments/assets/61fea3b0-2337-4195-8a14-56069debf3f9" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
