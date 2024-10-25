@@ -12,7 +12,7 @@ Azure Sentinel (SIEM) is set up and connected to a live virtual machine acting a
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3d5924d9-e5a7-43ba-9013-a2fbf274eabd" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
-<h2>Languages Used</h2>
+<h2>Tool Used</h2>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
