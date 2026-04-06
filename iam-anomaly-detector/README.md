@@ -78,6 +78,7 @@ risk_level: High
 ```
 
 ---
+<img width="626" height="786" alt="image" src="https://github.com/user-attachments/assets/c917e056-8542-44d1-a5a2-06c475a63f8f" />
 
 ## Disclaimer
 
