@@ -55,6 +55,8 @@ Instead of only detecting individual anomalies, the system:
 ---
 
 ## 📂 Project Structure
+
+```bash
 user-behavior-risk-scoring/ 
 │
 ├── app.py # Dashboard (Streamlit) 
@@ -72,8 +74,10 @@ user-behavior-risk-scoring/
 │ 
 ├── requirements.txt 
 └── README.md
+```
 
 ## ▶️ How It Works
+```bash
 Authentication Logs
         ↓ 
 Detection Rules (Anomalies)
@@ -85,25 +89,28 @@ User Behavior Analysis
 User Risk Score (0–100)
         ↓ 
 SOC Dashboard Visualization
+```
 
 ## ▶️ How to Run
+```bash
 python src/log_generator.py 
 python src/alert_engine.py 
 streamlit run app.py
+```
 
 ## Dashboard Capabilities
-👤 Top risky users
-🔥 Threat prioritization
-⏱ Login activity timeline
-🌍 Geo visualization of behavior
-🔴 Attack path mapping (impossible travel)
-🧾 Investigation queue
+- 👤 Top risky users
+- 🔥 Threat prioritization
+- ⏱ Login activity timeline
+- 🌍 Geo visualization of behavior
+- 🔴 Attack path mapping (impossible travel)
+- 🧾 Investigation queue
 
 ## Use Case
 
 Simulates how SOC teams:
 
-Detect compromised accounts
-Identify insider threats
-Prioritize users for investigation
-Monitor identity-based attacks
+- Detect compromised accounts
+- Identify insider threats
+- Prioritize users for investigation
+- Monitor identity-based attacks
